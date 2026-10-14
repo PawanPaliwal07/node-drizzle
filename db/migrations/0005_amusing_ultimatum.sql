@@ -1,0 +1,1 @@
+ALTER TABLE `mst_staticcountries` DROP COLUMN `CountryCode`;

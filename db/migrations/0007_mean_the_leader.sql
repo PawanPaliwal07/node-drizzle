@@ -1,0 +1,1 @@
+ALTER TABLE `mst_staticcountries` ADD `DisplayOnHome` tinyint DEFAULT 1;
